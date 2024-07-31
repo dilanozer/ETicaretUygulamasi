@@ -1,0 +1,15 @@
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net7.0/ETicaretAPI.Application.deps.json
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net7.0/ETicaretAPI.Application.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net7.0/ETicaretAPI.Application.pdb
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net7.0/ETicaretAPI.Domain.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net7.0/ETicaretAPI.Domain.pdb
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.csproj.AssemblyReference.cache
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.AssemblyInfoInputs.cache
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.AssemblyInfo.cs
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.csproj.CopyComplete
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/refint/ETicaretAPI.Application.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.pdb
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ref/ETicaretAPI.Application.dll
