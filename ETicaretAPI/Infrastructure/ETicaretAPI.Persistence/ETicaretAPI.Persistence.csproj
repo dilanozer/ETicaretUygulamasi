@@ -22,8 +22,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Contexts\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\CustomerRepository\" />
+    <None Remove="Repositories\OrderRepository\" />
+    <None Remove="Repositories\ProductRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contexts\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\CustomerRepository\" />
+    <Folder Include="Repositories\OrderRepository\" />
+    <Folder Include="Repositories\ProductRepository\" />
   </ItemGroup>
 </Project>

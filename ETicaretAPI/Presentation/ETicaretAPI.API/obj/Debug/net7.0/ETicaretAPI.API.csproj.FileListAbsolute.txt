@@ -37,3 +37,8 @@
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/obj/Debug/net7.0/ETicaretAPI.API.pdb
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/obj/Debug/net7.0/ETicaretAPI.API.genruntimeconfig.cache
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/obj/Debug/net7.0/ref/ETicaretAPI.API.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Npgsql.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Presentation/ETicaretAPI.API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll

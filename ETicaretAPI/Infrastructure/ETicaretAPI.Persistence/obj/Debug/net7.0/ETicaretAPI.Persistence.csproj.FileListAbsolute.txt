@@ -15,6 +15,5 @@
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.pdb
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ref/ETicaretAPI.Persistence.dll
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Persistence.runtimeconfig.json
-/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.sourcelink.json
-/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaret.D6939411.Up2Date
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.genruntimeconfig.cache
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.csproj.CopyComplete
