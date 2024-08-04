@@ -9,10 +9,4 @@
   <ItemGroup>
     <ProjectReference Include="..\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <None Remove="Abstractions\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Abstractions\" />
-  </ItemGroup>
 </Project>

@@ -1,37 +1,17 @@
 ﻿<Properties StartupConfiguration="{00013A69-BBE7-4540-9B27-CBC42ABB314F}|https">
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.ETicaretAPI.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.ETicaretAPI.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="Presentation/ETicaretAPI.API/Program.cs" Line="4" Column="1" />
-      <File FileName="Infrastructure/ETicaretAPI.Persistence/ServiceRegistration.cs" Line="1" Column="1" />
-      <File FileName="Presentation/ETicaretAPI.API/Controllers/ProductsController.cs" Line="20" Column="31" />
-      <File FileName="Presentation/ETicaretAPI.API/appsettings.json" Line="1" Column="1" />
-      <File FileName="Presentation/ETicaretAPI.API/appsettings.Development.json" Line="1" Column="1" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ETicaretAPI" expanded="True">
-            <Node name="Infrastructure" expanded="True">
-              <Node name="ETicaretAPI.Infrastructure" expanded="True" />
-              <Node name="ETicaretAPI.Persistence" expanded="True" />
-            </Node>
-            <Node name="Presentation" expanded="True">
-              <Node name="ETicaretAPI.API" expanded="True" selected="True">
-                <Node name="Dependencies" expanded="True" />
-                <Node name="appsettings.json" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="ETicaretAPI" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.ETicaretAPI.Infrastructure FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Presentation.ETicaretAPI.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

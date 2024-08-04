@@ -8,8 +8,9 @@
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.AssemblyInfoInputs.cache
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.AssemblyInfo.cs
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.csproj.CoreCompileInputs.cache
-/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.csproj.CopyComplete
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.dll
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/refint/ETicaretAPI.Application.dll
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.pdb
 /Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ref/ETicaretAPI.Application.dll
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaretAPI.Application.sourcelink.json
+/Users/dilanozer/Desktop/ETicaretUygulamasi/ETicaretAPI/Core/ETicaretAPI.Application/obj/Debug/net7.0/ETicaret.BBAD6852.Up2Date
